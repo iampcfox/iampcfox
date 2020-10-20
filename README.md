@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite)
 
 <!--START_SECTION:waka-->
 ```text
