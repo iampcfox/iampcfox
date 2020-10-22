@@ -10,7 +10,7 @@
 
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" />
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true" />
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact" />
 
 <br>
 ---
