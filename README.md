@@ -12,6 +12,7 @@
 
 <img align="left" alt="FxPixels' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact" />
 
+---
 <br /><br />
 
 ---
