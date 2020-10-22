@@ -18,11 +18,7 @@
 ## :mailbox: How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:iampcfox@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/3Ks7sMA)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/FxPixels)
 
 <!--START_SECTION:waka-->
 ```text
