@@ -8,7 +8,16 @@
 - 😄 其实我是一个比较逗逼的人，不太喜欢拘束的工作环境，打乒乓球也是超厉害的，工作这几年都没找到对手哈哈哈
 - ⚡ 作为一枚小前端，Photoshop也没在怕的啦，喜欢拍照修图，拍得超好看那种，不过仅限于拍风景和拍别人，自拍的话就...
 
-![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite)
+![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true)
+
+## :mailbox: How to reach me : 
+
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/3Ks7sMA)
 
 <!--START_SECTION:waka-->
 ```text
