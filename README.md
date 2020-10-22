@@ -8,11 +8,9 @@
 - 😄 其实我是一个比较逗逼的人，不太喜欢拘束的工作环境，打乒乓球也是超厉害的，工作这几年都没找到对手哈哈哈
 - ⚡ 作为一枚小前端，Photoshop也没在怕的啦，喜欢拍照修图，拍得超好看那种，不过仅限于拍风景和拍别人，自拍的话就...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
-
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide=TeX&layout=compact&hide_border=true" />
 
 <br>
 
@@ -30,6 +28,8 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels)
 
 <!--
 **FxPixels/FxPixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
