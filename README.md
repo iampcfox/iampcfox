@@ -14,9 +14,11 @@
 
 <br /><br />
 
+---
+
 ## :mailbox: How to reach me : 
 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:iampcfox@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://www.twitter.com/iamjatinrao/)
