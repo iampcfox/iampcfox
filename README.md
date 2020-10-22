@@ -11,10 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite)
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
+
 <!--
 **FxPixels/FxPixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
