@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 我叫冯小成，从2018年开始从事Web前端开发，目前在广州工作。
 
@@ -8,12 +8,12 @@
 - 😄 其实我是一个比较逗逼的人，不太喜欢拘束的工作环境，打乒乓球也是超厉害的，工作这几年都没找到对手哈哈哈
 - ⚡ 作为一枚小前端，Photoshop也没在怕的啦，喜欢拍照修图，拍得超好看那种，不过仅限于拍风景和拍别人，自拍的话就...
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" />
+![]("https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true")
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact" />
+![]("https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact")
 
-<br>
----
+
+
 ## :mailbox: How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
