@@ -11,8 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact)
 
-
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br />
 
 ## :mailbox: How to reach me : 
 
