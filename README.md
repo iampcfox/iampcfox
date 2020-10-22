@@ -10,10 +10,10 @@
 
 <img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" />
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide=TeX&layout=compact&hide_border=true" />
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true" />
 
 <br>
-
+---
 ## :mailbox: How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
