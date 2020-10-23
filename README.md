@@ -15,17 +15,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" width="500" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact" width="300" alt=""/>
 -->
+## this week status
+<!--START_SECTION:waka-->
+```text
+TypeScript   2 hrs 33 mins   █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
 
 ## :mailbox: How to reach me : 
 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:iampcfox@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/FxPixels)
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   2 hrs 33 mins   █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels)
 
