@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" width="500" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact" width="300" alt=""/>
 -->
-## 🤔 this week status
+## ✨ this week status
 <!--START_SECTION:waka-->
 ```text
 TypeScript   2 hrs 33 mins   █████████████████████████   100.00 % 
