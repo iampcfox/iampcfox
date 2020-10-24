@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" width="500" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact" width="300" alt=""/>
 -->
-## ✨ This week spend my time on :
+## ✨ About this week:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
@@ -84,11 +84,6 @@ JavaScript               4 repos             █████████░░�
 CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/FxPixels/FxPixels/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
