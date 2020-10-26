@@ -78,7 +78,7 @@ Windows                  11 hrs 18 mins      ███████████�
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
 
 <!--
 **FxPixels/FxPixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
