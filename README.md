@@ -8,9 +8,9 @@
 - 😄 其实我是一个比较逗逼的人，不太喜欢拘束的工作环境，打乒乓球也是超厉害的，工作这几年都没找到对手哈哈哈
 - ⚡ 作为一枚小前端，Photoshop也没在怕的啦，喜欢拍照修图，拍得超好看那种，不过仅限于拍风景和拍别人，自拍的话就...
 
-![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact)
-
+-->
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true" width="500" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact" width="300" alt=""/>
