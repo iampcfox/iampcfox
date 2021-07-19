@@ -62,7 +62,7 @@ Windows                  3 hrs 57 mins       ███████████�
 ```
 
 
- Last Updated on 18/07/2021
+ Last Updated on 19/07/2021
 <!--END_SECTION:waka-->
 
 ## :mailbox: How to reach me : 
