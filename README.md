@@ -61,13 +61,6 @@ Windows                  1 min               ███████████�
  Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
-## :mailbox: How to reach me : 
-
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:iampcfox@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/FxPixels)
-
-
-
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
 
 <!--
