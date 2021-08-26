@@ -11,7 +11,7 @@
 -->
 ## ✨ About this week:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,21 +42,21 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 47 mins      █████████████████████████   100.0%
+Other                    26 hrs 17 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  25 hrs 47 mins      █████████████████████████   100.0%
+Browser                  26 hrs 17 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-react-ts-demo            25 hrs 47 mins      █████████████████████████   100.0%
+react-ts-demo            26 hrs 17 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  25 hrs 47 mins      █████████████████████████   100.0%
+Windows                  26 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/08/2021
+ Last Updated on 26/08/2021
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
