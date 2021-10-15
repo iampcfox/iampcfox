@@ -60,7 +60,7 @@ Mac                      1 hr 2 mins         ███████████�
 ```
 
 
- Last Updated on 14/10/2021
+ Last Updated on 15/10/2021
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
