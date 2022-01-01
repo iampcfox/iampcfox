@@ -11,7 +11,7 @@
 -->
 ## ✨ About this week:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,7 +62,7 @@ Mac                      12 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
