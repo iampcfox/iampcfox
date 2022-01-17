@@ -65,7 +65,7 @@ Windows                  1 hr 42 mins        ████░░░░░░░�
 ```
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
