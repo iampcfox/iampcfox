@@ -11,7 +11,7 @@
 -->
 ## ✨ About this week:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,27 +42,21 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 10 mins       ████████████████████████░   96.4% 
-Vue.js                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  7 hrs 10 mins       ████████████████████████░   96.4% 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-logmp                    7 hrs 25 mins       █████████████████████████   99.8% 
-HJG-platform-system      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
-antv-g6-demo             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 hrs 25 mins       █████████████████████████   99.84% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 05/02/2022 00:35:16 UTC
+ Last Updated on 06/02/2022 00:48:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
