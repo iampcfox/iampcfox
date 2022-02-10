@@ -42,21 +42,25 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    18 hrs 17 mins      ████████████████████████░   95.97% 
+Vue.js                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  18 hrs 17 mins      ████████████████████████░   95.97% 
+VS Code                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.03%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+logmp                    19 hrs 4 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      19 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/02/2022 00:44:27 UTC
+ Last Updated on 10/02/2022 00:43:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
