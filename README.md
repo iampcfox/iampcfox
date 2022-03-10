@@ -11,7 +11,7 @@
 -->
 ## ✨ About this week:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -66,7 +66,7 @@ Windows                  1 hr 16 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/03/2022 00:48:43 UTC
+ Last Updated on 10/03/2022 00:52:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
