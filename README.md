@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-从2018年开始从事Web前端开发，目前在广州工作。
+于2018年开始从事Web前端开发，目前在广州工作。
 
 <!--![](https://github-readme-stats.vercel.app/api?username=fxpixels&theme=graywhite&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fxpixels&hide_border=true&layout=compact)
