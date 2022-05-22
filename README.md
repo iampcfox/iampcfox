@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
@@ -59,7 +59,7 @@ Mac                      6 hrs 44 mins       ███████████�
 ```
 
 
- Last Updated on 21/05/2022 00:56:58 UTC
+ Last Updated on 22/05/2022 01:02:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
