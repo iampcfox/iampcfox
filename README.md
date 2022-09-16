@@ -15,8 +15,50 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 15/09/2022 01:23:31 UTC
+```text
+🌞 Morning    15 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+🌆 Daytime    36 commits     ██████████████░░░░░░░░░░░   57.14% 
+🌃 Evening    12 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
+Tuesday      9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
+Thursday     35 commits     ██████████████░░░░░░░░░░░   55.56% 
+Friday       10 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 16/09/2022 01:23:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
