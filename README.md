@@ -42,24 +42,20 @@ Sunday                   56 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 3 mins        ███████████████████████░░   92.73 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-inspection-bot-controll-p2 hrs 6 mins        ████████████████████████░   94.75 % 
-xwh-fronted-project      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-CloudPhone               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/04/2023 00:53:02 UTC
+ Last Updated on 08/04/2023 00:56:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
