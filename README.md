@@ -11,7 +11,7 @@
 -->
 ## ✨ About this week:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C416%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C416%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -42,20 +42,21 @@ Sunday                   56 commits          ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   28 mins             ████████████████████░░░░░   80.41 % 
+JavaScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shanglang                34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2023 01:00:50 UTC
+ Last Updated on 10/05/2023 00:58:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fxpixels) -->
