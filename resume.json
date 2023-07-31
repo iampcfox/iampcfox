@@ -13,12 +13,12 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
+    "name": "冯培成",
+    "email": "iampcfox@gmail.com",
+    "mobile": "19156576440",
     "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    // "zhihu": "https://www.zhihu.com/people/visiky",
+    "workExpYear": "5"
   },
   "educationList": [
     {
@@ -26,17 +26,17 @@
         "2014.09.01",
         "2018.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "仲恺农业工程学院",
+      "major": "环境科学",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
+      "award_info": "英语 CET4",
       "award_time": "2015"
     },
-    {
+   /* {
       "award_info": "蚂蚁近卫军 卓越个人奖",
       "award_time": "2018.09"
     },
@@ -47,7 +47,7 @@
     {
       "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
       "award_time": "2021.07"
-    }
+    } */
   ],
   "workExpList": [
     {
