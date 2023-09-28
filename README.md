@@ -1,6 +1,4 @@
-2018年毕业后，开始从事软件开发工作，目前在广东广州。
-
-我使用的技术 ——
+2018年毕业后，开始从事软件开发工作，目前在广东广州。Memos：https://balabala.96e227.cc
 
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white" /><nobr>
 <img alt="React" src="https://img.shields.io/badge/-React-087ea4?style=flat-square&logo=react&logoColor=white" />
