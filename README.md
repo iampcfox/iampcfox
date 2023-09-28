@@ -14,6 +14,6 @@
 &ensp;<img alt="Linux" src="https://img.shields.io/badge/-Linux Shell-010101?style=flat-square&logo=linux&logoColor=white" />
 &ensp;<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 &ensp;<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-f68322?style=flat-square&logo=cloudflare&logoColor=white" />
-&ensp;<img alt="ECharts" src="https://img.shields.io/badge/-ECharts-aa314d?style=flat-square&logo=ApacheECharts&logoColor=white" />
+&ensp;&ensp;<img alt="ECharts" src="https://img.shields.io/badge/-ECharts-aa314d?style=flat-square&logo=ApacheECharts&logoColor=white" />
 &ensp;<img alt="Electron" src="https://img.shields.io/badge/-Electron-547e8a?style=flat-square&logo=Electron&logoColor=white" /><nobr>
 &ensp;<img alt="Aliyun" src="https://img.shields.io/badge/-Aliyun-ff6a00?style=flat-square&logo=Alibaba Cloud&logoColor=white" />
