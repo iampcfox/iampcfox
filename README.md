@@ -20,4 +20,4 @@
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-547e8a?style=flat-square&logo=Electron&logoColor=white" /><nobr>
 <img alt="Aliyun" src="https://img.shields.io/badge/-Aliyun-ff6a00?style=flat-square&logo=Alibaba Cloud&logoColor=white" />
 <img alt="RaspberryPi" src="https://img.shields.io/badge/-RaspberryPi-c82253?style=flat-square&logo=raspberrypi&logoColor=white" />
-<img alt="Esp32" src="https://img.shields.io/badge/-Esp32-e7352c?style=flat-square&logo=espressif&logoColor=white" />
+<img alt="Espressif" src="https://img.shields.io/badge/-Espressif-e7352c?style=flat-square&logo=espressif&logoColor=white" />
