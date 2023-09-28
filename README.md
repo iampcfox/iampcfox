@@ -18,6 +18,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-f68322?style=flat-square&logo=cloudflare&logoColor=white" />
 <img alt="ECharts" src="https://img.shields.io/badge/-ECharts-aa314d?style=flat-square&logo=ApacheECharts&logoColor=white" />
+<img alt="AntV" src="https://img.shields.io/badge/-AntV-aa314d?style=flat-square&logo=Ant Design&logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-547e8a?style=flat-square&logo=Electron&logoColor=white" /><nobr>
 <img alt="Aliyun" src="https://img.shields.io/badge/-Aliyun-ff6a00?style=flat-square&logo=Alibaba Cloud&logoColor=white" />
 <img alt="RaspberryPi" src="https://img.shields.io/badge/-RaspberryPi-c82253?style=flat-square&logo=raspberrypi&logoColor=white" />
