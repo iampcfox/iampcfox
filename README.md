@@ -10,6 +10,7 @@ Email：iampcfox@gmail.com，Memos：https://balabala.96e227.cc
 <img alt="Less" src="https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-38bdf8?style=flat-square&logo=Tailwind CSS&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ede52f?style=flat-square&logo=JavaScript&logoColor=white&fontColor=white" />
 <img alt="ECharts" src="https://img.shields.io/badge/-ECharts-aa314d?style=flat-square&logo=ApacheECharts&logoColor=white" />
 <img alt="AntV" src="https://img.shields.io/badge/-AntV-976bff?style=flat-square&logo=Ant Design&logoColor=white" />
 <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-e25503?style=flat-square&logo=Three.js&logoColor=white" />
