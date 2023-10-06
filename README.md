@@ -1,6 +1,6 @@
 2018年毕业后，开始从事软件开发工作，目前在广东广州。
 
-Email：iampcfox@gmail.com，Memos：https://balabala.96e227.cc
+Email：iampcfox@gmail.com，里世界：https://in.96e227.cc，Memos：https://balabala.96e227.cc
 
 我所使用的技术——
 
